@@ -1,0 +1,27 @@
+.product-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.product{
+    width: 150px;
+margin: 12px;
+overflow: hidden;
+border: 1px solid black;
+border-radius: 5px;
+padding: 12px;
+display: flex;
+flex-direction: column;
+}
+
+.product-img{
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}

@@ -1,0 +1,33 @@
+.single-product-div{
+    display: flex;
+    max-width: 100ch;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 70px;
+}
+
+.single-product-img{
+    width: 300px;
+    margin-right: 100px;
+}
+
+.single-product-info{
+    margin-top: 50px;
+}
+
+h3{
+    font-size: 1.8em;
+}
+
+p{
+    font-size: 1.2em;
+    margin-bottom: 50px;
+}
+
+button{
+    padding: 7px;
+    font-size: 1em;
+    width: 150px;
+    border-radius: 5px;
+}

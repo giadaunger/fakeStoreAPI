@@ -1,0 +1,38 @@
+.cart{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100ch;
+    margin-bottom: 100px;
+}
+
+.cart-div{
+    display: flex;
+    border-bottom: 2px black solid;
+}
+
+.cart-img{
+    height: 150px;
+    width: 150px;
+    margin-right: 150px;
+}
+
+p{
+    margin-right: 150px;
+}
+
+.cart-btn{
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+.title-div{
+    max-width: 18ch;
+    margin-right: 150px;
+}
+
+h3{
+    font-size: 1.2em;
+}
